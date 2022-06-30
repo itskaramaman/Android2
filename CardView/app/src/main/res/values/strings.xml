@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="txtTitle">Learning Java 9 By Building Games</string>
+    <string name="txtView2">Learning Java by creating fun filled games for Android</string>
+    <string name="txtViewBuy">Buy Now</string>
+    <string name="txtTitle2">Beginning C++ Game Programming</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverHomeWork</string>
+    <string name="btnText">SEND CUSTOM BROADCAST</string>
+</resources>
